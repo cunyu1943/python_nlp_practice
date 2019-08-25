@@ -8,4 +8,10 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 1. NLP基础
 
-2
+2. NLP前置技术解析
+
+3. 中文分词技术
+
+4,
+
+
