@@ -14,7 +14,16 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 4. 词性标注与命名实体识别
 
-5. 
+5. 关键词提取算法
+
+6. 句法分析
+
+7. 文本向量化
+
+8. 
+
+
+
 
 
 
