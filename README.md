@@ -12,6 +12,9 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 3. 中文分词技术
 
-4,
+4. 词性标注与命名实体识别
+
+5. 
+
 
 
