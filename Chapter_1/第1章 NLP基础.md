@@ -56,8 +56,8 @@
 
 	- 分词（segment）
 	- 词性标注（part-of-speech tagging）
-	- 命名实体识别（NER，Named Entity ）
-	- 句法分析
+	- 命名实体识别（NER，Named Entity Recognition）
+	- 句法分析()
 	- 指代消解
 	- 情感识别
 	- 纠错
