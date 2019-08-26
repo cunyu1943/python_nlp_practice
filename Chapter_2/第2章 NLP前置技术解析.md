@@ -70,7 +70,7 @@ file_new = np.genfromtxt('./data/demo.txt',dtype = 'U75',skip_header=1,delimiter
 print(new_file)
 # 索引
 matrix_new = np.array([[1, 2, 3],[40, 50, 60]])
-
+print(matrix[1, 2])
 ```
 
 
