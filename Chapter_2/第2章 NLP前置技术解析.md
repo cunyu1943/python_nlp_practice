@@ -25,4 +25,4 @@
 
 - 正则表达式
 
-	书中知识较为简单，想要深入学习请参考相关教程[菜鸟教程](https://www.runoob.com/regexp/regexp-syntax.html)
+	书中知识较为简单，想要深入学习请参考相关教程[菜鸟教程之正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)
