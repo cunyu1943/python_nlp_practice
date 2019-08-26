@@ -8,7 +8,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 1. [NLP基础](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_1/%E7%AC%AC1%E7%AB%A0%20NLP%E5%9F%BA%E7%A1%80.md)
 
-2. NLP前置技术解析
+2. [NLP前置技术解析](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_2/%E7%AC%AC2%E7%AB%A0%20NLP%E5%89%8D%E7%BD%AE%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.md)
 
 3. 中文分词技术
 
