@@ -86,4 +86,4 @@
 
 # 1.4 语料库
 
-- [中文维基百科](https://du)
+- [中文维基百科](https://dumps.wikimedia.org/zhwiki)
