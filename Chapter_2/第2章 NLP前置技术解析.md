@@ -74,6 +74,8 @@ print(matrix[1, 2])
 # 数组比较
 m = (matrix_new == 10)
 print(m)
+# 数据类型转换
+
 ```
 
 
