@@ -48,7 +48,10 @@
 
 - 简单使用
 
-··
+```python
+#--*--coding:utf-8--*--
+import numpy as np
+```
 
 
 
