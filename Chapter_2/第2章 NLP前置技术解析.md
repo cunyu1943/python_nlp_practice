@@ -63,7 +63,7 @@ a = np.arange(15).reshape(3,5)
 # 获取Numpy中数组维度
 print(a.shape)
 # 获取本地数据
-file = np.genfromtxt('')
+file = np.genfromtxt('./data/demo.txt',delimiter=',')
 ```
 
 
