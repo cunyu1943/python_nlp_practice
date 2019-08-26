@@ -43,8 +43,5 @@
 
 - 教程
 
-	- [](https://www.numpy.org.cn/reference/index.html)
-
-
-
-
+	- [Numpy参考手册](https://www.numpy.org.cn/reference/index.html)
+	- 
