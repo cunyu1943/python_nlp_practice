@@ -58,6 +58,7 @@ import numpy as np
 vector = np.array([1,2,3,4])
 # 导入矩阵
 matrix = np.array([[1,'Duncan'],[2,'Manu'],[3,'Paker'],[4,'Green']])
+# 自动架构一个多行
 # 获取Numpy中数组维度
 
 ```
