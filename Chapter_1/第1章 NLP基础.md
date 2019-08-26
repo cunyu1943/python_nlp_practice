@@ -90,5 +90,5 @@
 
 - [搜狗新闻语料库](https://download.labs.sogou.com/resource/ca.php)
 
-- [IMDB情感分析语料库](https)
+- [IMDB情感分析语料库](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
