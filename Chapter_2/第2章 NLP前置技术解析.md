@@ -54,7 +54,8 @@
 
 import numpy as np
 
-
+# 直接导入向量
+vector = np.array
 ```
 
 
