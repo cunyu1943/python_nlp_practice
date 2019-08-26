@@ -12,4 +12,6 @@
 
 - 基本分类
 
-![title](https://i.loli.net/2019/08/26/OJRTM8Ivks1Xt9B.png)
+![NLP基本分类](https://i.loli.net/2019/08/26/OJRTM8Ivks1Xt9B.png)
+
+
