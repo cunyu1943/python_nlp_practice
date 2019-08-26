@@ -94,4 +94,8 @@
 
 - [fastText词向量](https://fasttext.cc/docs/en/pretrained-vectors.html)
 
-- [维基](https://linguatools.org/tools/corpora/wikipedia-comparable-corpora/)
+- [维基可比语料](https://linguatools.org/tools/corpora/wikipedia-comparable-corpora/)
+
+---
+
+# 1.5 
