@@ -58,7 +58,7 @@
 	- 词性标注（part-of-speech tagging）
 	- 命名实体识别（NER，Named Entity Recognition）
 
-		指从文本中识别具有特定类标的实体（常为名词），如
+		指从文本中识别具有特定类标的实体（常为名词），如人名、地名、机构名、专有名词等；
 
 	- 句法分析(syntax parsing)
 	- 指代消解
