@@ -68,6 +68,8 @@ print(file)
 # 正确读取数据
 file_new = np.genfromtxt('./data/demo.txt',dtype = 'U75',skip_header=1,delimiter=',')
 print(new_file)
+# 索引
+matrix = np.array([])
 ```
 
 
