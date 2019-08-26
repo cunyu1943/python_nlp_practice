@@ -6,7 +6,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 ## 目录：Context
 
-1. NLP基础
+1. [NLP基础](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_1/%E7%AC%AC1%E7%AB%A0%20NLP%E5%9F%BA%E7%A1%80.md)
 
 2. NLP前置技术解析
 
