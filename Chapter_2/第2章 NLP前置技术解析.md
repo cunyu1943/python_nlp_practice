@@ -23,6 +23,9 @@
 
 	安装以及简单实用教程见[Anaconda简单实用手册](https://blog.csdn.net/github_39655029/article/details/85238899)；
 
+---
+
+# 2.2 
 - 正则表达式
 
 	书中知识较为简单，想要深入学习请参考相关教程[菜鸟教程之正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)
