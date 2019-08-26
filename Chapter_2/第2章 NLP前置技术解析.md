@@ -61,7 +61,7 @@ matrix = np.array([[1,'Duncan'],[2,'Manu'],[3,'Paker'],[4,'Green']])
 # 自动架构一个多行多列的array对象
 a = np.arange(15).reshape(3,5)
 # 获取Numpy中数组维度
-
+print(a.shape)
 ```
 
 
