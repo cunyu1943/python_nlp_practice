@@ -72,6 +72,7 @@ print(new_file)
 matrix_new = np.array([[1, 2, 3],[40, 50, 60]])
 print(matrix[1, 2])
 # 数组比较
+m = (matrix_new == 10)
 
 ```
 
