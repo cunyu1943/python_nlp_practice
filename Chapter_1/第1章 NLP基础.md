@@ -114,4 +114,4 @@
 
 - 第三层面：语义分析
 
-	语义角色标注（semantic role labeling）是成熟的浅层语义分析技术；
+	语义角色标注（semantic role labeling）是当前较为成熟的浅层语义分析技术；
