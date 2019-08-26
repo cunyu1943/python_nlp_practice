@@ -21,7 +21,7 @@
 
 - Anaconda
 
-	安装以及简单实用教程见[Anaconda简单实用手册](https://blog.csdn.net/github_39655029/article/details/85238899)或[大神廖雪峰的正则表达式教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664)；
+	安装以及简单实用教程见[Anaconda简单实用手册](https://blog.csdn.net/github_39655029/article/details/85238899)或[廖雪峰的Python教程之正则表达式教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664)；
 
 ---
 
@@ -32,3 +32,4 @@
 ---
 
 # 2.3 
+
