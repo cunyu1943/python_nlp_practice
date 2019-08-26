@@ -65,6 +65,6 @@
 		目的是解析句子中各个成分的依赖关系；
 
 	- 指代消解（anaphora resolution）
-	- 情感识别
+	- 情感识别（emotion recognition）
 	- 纠错
 	- 问答系统
