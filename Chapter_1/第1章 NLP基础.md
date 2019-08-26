@@ -88,7 +88,7 @@
 
 - [中文维基百科](https://dumps.wikimedia.org/zhwiki)
 
-- [搜狗新闻语料库]()
+- [搜狗新闻语料库](https://download.labs.sogou.com/resource/ca.php)
 
-- [IMDB情感分析语料库]()
+- [IMDB情感分析语料库](https)
 
