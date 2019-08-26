@@ -41,7 +41,7 @@
 	- 线性函数、傅里叶变换和随机数操作；
 	- 用于集成C/C++和Fortran代码的工具；
 
-- 教程
+- 相关教程
 
 	- [Numpy参考手册](https://www.numpy.org.cn/reference/index.html)
-	- 
+	- [CS231n课程笔记翻译：Python Numpy教程](https://zhuanlan.zhihu.com/p/20878530)
