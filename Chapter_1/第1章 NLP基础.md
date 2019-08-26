@@ -16,7 +16,7 @@
 
 - 自然语言生成（Natural Language Generation,NLG）
 
-	
+	指从结构化数据中以读取
 
 
 
