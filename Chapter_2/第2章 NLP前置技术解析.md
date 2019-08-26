@@ -64,6 +64,8 @@ a = np.arange(15).reshape(3,5)
 print(a.shape)
 # 获取本地数据
 file = np.genfromtxt('./data/demo.txt',delimiter=',')
+print(file)
+# 正确读取
 ```
 
 
