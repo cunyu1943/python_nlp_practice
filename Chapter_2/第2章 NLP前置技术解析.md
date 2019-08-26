@@ -66,7 +66,8 @@ print(a.shape)
 file = np.genfromtxt('./data/demo.txt',delimiter=',')
 print(file)
 # 正确读取数据
-file_new = np.genfromtxt('./data/demo.txt',delimiter=',')
+file_new = np.genfromtxt('./data/demo.txt',dtype = 'U75',skip_header=1,delimiter=',')
+print(new_file)
 ```
 
 
