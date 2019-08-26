@@ -62,6 +62,8 @@ matrix = np.array([[1,'Duncan'],[2,'Manu'],[3,'Paker'],[4,'Green']])
 a = np.arange(15).reshape(3,5)
 # 获取Numpy中数组维度
 print(a.shape)
+# 获取本地数据
+file = np.genfromtxt('')
 ```
 
 
