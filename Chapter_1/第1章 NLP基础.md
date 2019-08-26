@@ -14,6 +14,9 @@
 
 ![NLP基本分类](https://i.loli.net/2019/08/26/9Lmo7Up4OQXg1Hd.png)
 
-- 自然语言生成（Natural Language GenNLG）
+- 自然语言生成（Natural Language Generation,NLG）
+
+	
+
 
 
