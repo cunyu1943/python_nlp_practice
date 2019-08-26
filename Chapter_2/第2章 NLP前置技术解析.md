@@ -22,3 +22,7 @@
 - Anaconda
 
 	安装以及简单实用教程见[Anaconda简单实用手册](https://blog.csdn.net/github_39655029/article/details/85238899)；
+
+- 正则表达式
+
+	
