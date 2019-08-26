@@ -76,7 +76,7 @@ m = (matrix_new == 10)
 print(m)
 # 数据类型转换
 vector = numpy.array(['1','2','3'])
-vector = vector
+vector = vector.astype(float)
 ```
 
 
