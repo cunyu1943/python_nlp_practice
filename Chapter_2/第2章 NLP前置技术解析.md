@@ -55,7 +55,9 @@
 import numpy as np
 
 # 直接导入向量
-vector = np.array
+vector = np.array([1,2,3,4])
+# 导入矩阵
+
 ```
 
 
