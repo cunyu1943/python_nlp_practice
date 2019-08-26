@@ -65,7 +65,8 @@ print(a.shape)
 # 获取本地数据
 file = np.genfromtxt('./data/demo.txt',delimiter=',')
 print(file)
-# 正确读取
+# 正确读取数据
+file_new = np.genfromtxt('./data/demo.txt',delimiter=',')
 ```
 
 
