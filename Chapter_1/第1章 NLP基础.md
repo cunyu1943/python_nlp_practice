@@ -66,5 +66,5 @@
 
 	- 指代消解（anaphora resolution）
 	- 情感识别（emotion recognition）
-	- 纠错
-	- 问答系统
+	- 纠错（correction）
+	- 问答系统（QA system）
