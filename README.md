@@ -14,7 +14,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 4. [词性标注与命名实体识别](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_4/%E7%AC%AC4%E7%AB%A0%20%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)
 
-5. 关键词提取算法
+5. [关键词提取算法](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_5/%E7%AC%AC5%E7%AB%A0%20%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95.md)
 
 6. 句法分析
 
