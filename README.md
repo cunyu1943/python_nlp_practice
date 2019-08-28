@@ -12,7 +12,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 3. [中文分词技术](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_3/%E7%AC%AC3%E7%AB%A0%20%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E6%8A%80%E6%9C%AF.md)
 
-4. 词性标注与命名实体识别
+4. [词性标注与命名实体识别]()
 
 5. 关键词提取算法
 
