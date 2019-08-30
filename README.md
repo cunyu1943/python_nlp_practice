@@ -24,7 +24,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 9. [NLP中用到的机器学习算法]()
 
-10. [基于深度学习的NLP算法]()
+10. [基于深度学习的NLP算法](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_10/%E7%AC%AC10%E7%AB%A0%20%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84NLP%E7%AE%97%E6%B3%95.md)
 
 
 
