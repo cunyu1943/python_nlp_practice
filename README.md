@@ -18,9 +18,9 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 6. [句法分析](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_6/%E7%AC%AC6%E7%AB%A0%20%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90.md)
 
-7. 文本向量化
+7. [文本向量化]()
 
-8. 情感分析技术
+8. 情感分析技术])
 
 9. NLP中用到的机器学习算法
 
