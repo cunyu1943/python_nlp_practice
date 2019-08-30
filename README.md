@@ -18,11 +18,11 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 6. [句法分析](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_6/%E7%AC%AC6%E7%AB%A0%20%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90.md)
 
-7. [文本向量化]()
+7. [文本向量化](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_7/%E7%AC%AC7%E7%AB%A0%20%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 
-8. [情感分析技术]()
+8. [情感分析技术](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_8/%E7%AC%AC8%E7%AB%A0%20%E5%AE%9E%E6%88%98%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.md)
 
-9. [NLP中用到的机器学习算法]()
+9. [NLP中用到的机器学习算法](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_9/%E7%AC%AC9%E7%AB%A0%20NLP%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.md)
 
 10. [基于深度学习的NLP算法](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_10/%E7%AC%AC10%E7%AB%A0%20%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84NLP%E7%AE%97%E6%B3%95.md)
 
