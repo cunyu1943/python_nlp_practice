@@ -20,11 +20,11 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 7. [文本向量化]()
 
-8. 情感分析技术])
+8. [情感分析技术]()
 
-9. NLP中用到的机器学习算法
+9. [NLP中用到的机器学习算法]()
 
-10. 基于深度学习的NLP算法
+10. [基于深度学习的NLP算法]()
 
 
 
