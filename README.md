@@ -16,7 +16,7 @@ The notes for Natural Language Processing:Core Technology and Algorithm with Pyt
 
 5. [关键词提取算法](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_5/%E7%AC%AC5%E7%AB%A0%20%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95.md)
 
-6. [句法分析]()
+6. [句法分析](https://github.com/cunyu1943/python_nlp_practice/blob/master/Chapter_6/%E7%AC%AC6%E7%AB%A0%20%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90.md)
 
 7. 文本向量化
 
