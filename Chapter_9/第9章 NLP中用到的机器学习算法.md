@@ -52,6 +52,6 @@
 - 特征提取
 
 	- Bag-of-words：最原始的特征集，一个单词/分词即为一个特征；
-	- 统计特征：Term frequency(TF)、Inverse document frequency
-	- N-Gram：
+	- 统计特征：Term frequency(TF)、Inverse document frequency（IDF）；
+	- N-Gram：考虑词汇顺序的
 
