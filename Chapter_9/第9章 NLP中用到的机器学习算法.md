@@ -27,5 +27,5 @@
 	
 	- 监督学习
 	- 无监督学习
-	- 半监督学习
-	- 增强学习
+	- 半监督学习（Semi-supervised Learning）
+	- 增强学习（Reinforced Learning）
