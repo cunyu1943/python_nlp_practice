@@ -53,5 +53,7 @@
 
 	- Bag-of-words：最原始的特征集，一个单词/分词即为一个特征；
 	- 统计特征：Term frequency(TF)、Inverse document frequency（IDF）；
-	- N-Gram：考虑词汇顺序的模型，即N阶Markov链，
+	- N-Gram：考虑词汇顺序的模型，即N阶Markov链，每个样本转移为转移概率矩阵；
+
+- 标注
 
