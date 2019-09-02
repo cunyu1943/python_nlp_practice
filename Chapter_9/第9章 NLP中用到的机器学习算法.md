@@ -20,7 +20,7 @@
 
 	- 预测（Prediction）：用回归（Regression，Arima）等模型；
 	- 聚类（Clustering）：如K-means方法；
-	- 分类（Classification）：支持向量机（Support Vector ）
+	- 分类（Classification）：支持向量机（Support Vector Machine，SVM）、逻辑回归（Logistic）
 
 
 
