@@ -26,6 +26,9 @@
 - 按学习方法分
 	
 	- 监督学习（Supervised Learning）：给定输入$x$，如何通过在标注输入和输出的数据上训练模型而预测输出$y$；
+	
+	![title](https://i.loli.net/2019/09/02/gAG3jl1HqFVnMdy.png)
+
 	- 无监督学习（Un-supervised Learning）
 	- 半监督学习（Semi-supervised Learning）
 	- 增强学习（Reinforced Learning）
