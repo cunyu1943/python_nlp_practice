@@ -26,6 +26,6 @@
 - 按学习方法分
 	
 	- 监督学习（Supervised Learning）
-	- 无监督学习（Un-）
+	- 无监督学习（Un-supervised Learning）
 	- 半监督学习（Semi-supervised Learning）
 	- 增强学习（Reinforced Learning）
