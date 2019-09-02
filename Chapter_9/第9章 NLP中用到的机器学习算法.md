@@ -19,7 +19,8 @@
 - 机器学习中最重要的四类问题
 
 	- 预测（Prediction）：用回归（Regression，Arima）等模型；
-	- 聚类（）
+	- 聚类（Clustering）：如K-means方法；
+	- 分类
 
 
 
