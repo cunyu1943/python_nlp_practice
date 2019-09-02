@@ -51,7 +51,7 @@
 
 - 特征提取
 
-	- Bag-of-words：
+	- Bag-of-words：最原始的
 	- 统计特征：
-	- 
+	- N-Gram：
 
