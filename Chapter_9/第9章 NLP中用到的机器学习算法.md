@@ -55,5 +55,9 @@
 	- 统计特征：Term frequency(TF)、Inverse document frequency（IDF）；
 	- N-Gram：考虑词汇顺序的模型，即N阶Markov链，每个样本转移为转移概率矩阵；
 
-- 标注
+- 序列学习
+
+	- 语音识别
+	- 文本
+
 
