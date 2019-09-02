@@ -23,4 +23,9 @@
 	- 分类（Classification）：支持向量机（Support Vector Machine，SVM）、逻辑回归（Logistic Regression）；
 	- 降维（Dimensional reduction）：主成分分析法（Principal Component Analysis，即纯矩阵运算）；
 
-- 
+- 按学习方法分
+	
+	- 监督学习
+	- 无监督学习
+	- 半监督学习
+	- 增强学习
